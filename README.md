@@ -6,3 +6,6 @@ Output Screenshot:
 <strong>Output screenshot 1:</strong>
 ![Alt text](output-screenshots/JC-WrapperClasses-TemperatureAnalyzer-ScreenshotOutput.png)
 
+<strong>Output screenshot 2 (error handling scenario):</strong>
+![Alt text](output-screenshots/JC-WrapperClasses-TemperatureAnalyzer-ScreenshotOutput(error handling).png)
+
